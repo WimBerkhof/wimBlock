@@ -1,6 +1,8 @@
 #
 # wimblock.txt
 #
+# Title: personal blocklist @pingwim
+#
 # thuis.nl
 127.0.0.1  thuis.nl
 127.0.0.1  www.thuis.nl
