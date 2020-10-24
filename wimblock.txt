@@ -32,7 +32,8 @@
 127.0.0.1  195.54.160.99
 127.0.0.1  200.123.148.187
 # other
-127.0.0.1  trafficjunky.net
+#127.0.0.1  trafficjunky.net
 127.0.0.1  trafficjunky.*
 127.0.0.1  *.eg
 127.0.0.1  spoed-betaling.info
+127.0.0.1  chaturbate.com
