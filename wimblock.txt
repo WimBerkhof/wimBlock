@@ -13,6 +13,7 @@
 127.0.0.1  trafficjunky.*
 127.0.0.1  *.eg
 127.0.0.1  spoed-betaling.info
+127.0.0.1  *.avsvmcloud.com
 #from badpackets
 127.0.0.1  5.39.216.243
 127.0.0.1  5.39.217.219
