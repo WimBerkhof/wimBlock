@@ -13,6 +13,7 @@
 127.0.0.1  img.thuis.nl
 127.0.0.1  trafficjunky.net
 127.0.0.1  trafficjunky.*
+127.0.0.1  *.reclamefolder.org
 127.0.0.1  *.eg
 127.0.0.1  spoed-betaling.info
 127.0.0.1  *.avsvmcloud.com
